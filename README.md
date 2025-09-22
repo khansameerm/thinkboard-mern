@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlydG51NGRsempnZDN3MzdzejF3czloMHRiMnA3bXcwdGs0MmsxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" width="70%" alt="Thinking Banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlydG51NGRsempnZDN3MzdzejF3czloMHRiMnA3bXcwdGs0MmsxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif" width="50%" alt="Thinking Banner"/>
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -19,7 +19,7 @@
 - 🔍 View an individual note in detail  
 - ⏳ **Rate Limiting** to prevent spam & abuse  
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+---
 
 ## ⚡ Tech Stack
 
@@ -28,7 +28,7 @@
 - **Database**: MongoDB  
 - **Extras**: Rate Limiting with `express-rate-limit`  
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+---
 
 ## ⏳ Rate Limiting
 
@@ -37,3 +37,4 @@ Thinkboard adds a **security layer** using rate limiting.
 - Each user can only make **100 requests per 15 minutes**.  
 - If the limit is exceeded, they’ll see an error response instead of overloading the server.  
 - This keeps the app stable and prevents spam or abuse.  
+
